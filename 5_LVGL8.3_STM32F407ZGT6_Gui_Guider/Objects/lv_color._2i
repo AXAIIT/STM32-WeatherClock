@@ -1,0 +1,3 @@
+--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\User -I .\Library -I .\Start -I .\App -I .\Hardware -I .\System -I .\Hardware\LCD -I .\Hardware\LCD_SPI -I .\Hardware\TOUCH -I .\System\LCD_delay -I .\System\sys -I .\App\LCD -I .\Hardware\LED -I .\Hardware\Usart -I .\System\LCD_Timer -I .\Hardware\LVGL -I .\Hardware\LVGL\examples\porting -I .\Hardware\LVGL\src -I .\App\LVGL_myGui
+-D__UVISION_VERSION="543" -DSTM32F407xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER
+-o .\objects\lv_color.o --omf_browse .\objects\lv_color.crf --depend .\objects\lv_color.d --feedback ".\Objects\Project.fed" "Hardware\LVGL\src\misc\lv_color.c"
