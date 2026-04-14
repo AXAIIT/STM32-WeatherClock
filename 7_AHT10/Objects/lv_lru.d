@@ -1,0 +1,13 @@
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_lru.c
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_lru.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\../lv_conf_internal.h
+.\objects\lv_lru.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\../lv_conf_kconfig.h
+.\objects\lv_lru.o: .\Hardware\LVGL\examples\porting\../../lv_conf.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_types.h
+.\objects\lv_lru.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_math.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_mem.h
+.\objects\lv_lru.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_assert.h
+.\objects\lv_lru.o: Hardware\LVGL\src\misc\lv_log.h

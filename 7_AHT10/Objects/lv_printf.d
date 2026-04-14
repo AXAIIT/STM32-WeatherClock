@@ -1,0 +1,10 @@
+.\objects\lv_printf.o: Hardware\LVGL\src\misc\lv_printf.c
+.\objects\lv_printf.o: Hardware\LVGL\src\misc\lv_printf.h
+.\objects\lv_printf.o: Hardware\LVGL\src\misc\../lv_conf_internal.h
+.\objects\lv_printf.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\lv_printf.o: Hardware\LVGL\src\misc\../lv_conf_kconfig.h
+.\objects\lv_printf.o: .\Hardware\LVGL\examples\porting\../../lv_conf.h
+.\objects\lv_printf.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdarg.h
+.\objects\lv_printf.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\lv_printf.o: Hardware\LVGL\src\misc\lv_types.h
+.\objects\lv_printf.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h

@@ -1,0 +1,17 @@
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\lv_bidi.c
+.\objects\lv_bidi.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\lv_bidi.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\../lv_conf_internal.h
+.\objects\lv_bidi.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\../lv_conf_kconfig.h
+.\objects\lv_bidi.o: .\Hardware\LVGL\examples\porting\../../lv_conf.h
+.\objects\lv_bidi.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\lv_txt.h
+.\objects\lv_bidi.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdarg.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\lv_area.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\../font/lv_font.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\../font/lv_symbol_def.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\lv_printf.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\lv_types.h
+.\objects\lv_bidi.o: Hardware\LVGL\src\misc\../misc/lv_mem.h
+.\objects\lv_bidi.o: D:\Keil5\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
